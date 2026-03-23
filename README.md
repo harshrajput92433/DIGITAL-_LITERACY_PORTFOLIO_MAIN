@@ -8,12 +8,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | [Your Full Name] |
-| **Registration No.** | [Your Reg No.] |
-| **Branch** | [Your Branch, e.g., CSE / ECE / MECH] |
+| **Name** | [HARSH RAJPUT] |
+| **Registration No.** | [25BEY10012] |
+| **Branch** | [CSE] |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Academic Year** | 2024–25 |
+| **Academic Year** | 2026-27 |
 
 ---
 
@@ -65,9 +65,9 @@ Created a one-page visual infographic using **Canva** covering: what digital lit
 
 ### Task 2 – Student Digital Portfolio (Module 2)
 Set up professional profiles on three platforms:
-- 🐙 **GitHub** – [github.com/yourusername](#) — Profile README with name, branch, year, and learning goal
-- 💼 **LinkedIn** – [linkedin.com/in/yourusername](#) — Education section filled with VIT Bhopal details
-- 📊 **Kaggle** – [kaggle.com/yourusername](#) — Account created for future data science practice
+- 🐙 **GitHub** – [https://github.com/harshrajput92433](#) — Profile README with name, branch, year, and learning goal
+- 💼 **LinkedIn** – [https://www.linkedin.com/in/harsh-rajput-8237ba386/](#) — Education section filled with VIT Bhopal details
+- 📊 **Kaggle** – [https://www.kaggle.com/harshrajput92433](#) — Account created for future data science practice
 
 ---
 
