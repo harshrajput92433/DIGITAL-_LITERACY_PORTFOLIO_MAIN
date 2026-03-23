@@ -75,7 +75,8 @@ Set up professional profiles on three platforms:
 - ✅ Completed HackerRank's "Solve Me First" challenge (Part A)
 - 📝 Built a **Digital Literacy Awareness Quiz** on Google Forms with 5 questions (Part B)
 
-🔗 [https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor](#) 
+🔗[https://www.hackerrank.com/certificates/0f8f604ef709](#)
+[https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor](#) 
 
 ---
 
