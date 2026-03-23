@@ -106,7 +106,7 @@ Set up professional profiles on three platforms:
 ## 📄 Full Report
 
 The complete written project report (covering all 5 tasks with reflections) is available in the `report/` folder:
-👉 [`report/Project_Report.docx`](./report/Project_Report.docx)
+👉 [https://1drv.ms/w/c/167268a62852fbd9/IQAz-SEj-5ZgR6rDafPcYTPWAbpSEdUbe1tVPDFBPHTBi7Q?e=27Lrw8](./report/Project_Report.docx)
 
 ---
 
