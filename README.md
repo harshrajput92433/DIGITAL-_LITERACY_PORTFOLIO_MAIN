@@ -59,7 +59,7 @@ digital-literacy-project/
 ### Task 1 – Digital Literacy Awareness Infographic (Module 1)
 Created a one-page visual infographic using **Canva** covering: what digital literacy is, safe internet practices, and professional online presence. The design uses icons and minimal text to make the concepts accessible to first-year students.
 
-🔗 [View Infographic on Canva](#) *(replace with your Canva share link)*
+🔗 [https://www.canva.com/design/DAHEyNEewNQ/ut5uCeTxIQS_AO1yQDH9_g/edit?utm_content=DAHEyNEewNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](#)
 
 ---
 
@@ -75,7 +75,7 @@ Set up professional profiles on three platforms:
 - ✅ Completed HackerRank's "Solve Me First" challenge (Part A)
 - 📝 Built a **Digital Literacy Awareness Quiz** on Google Forms with 5 questions (Part B)
 
-🔗 [Digital Literacy Quiz – Google Form](#) *(replace with your Google Form link)*
+🔗 [https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor](#) 
 
 ---
 
