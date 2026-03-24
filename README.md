@@ -1,3 +1,18 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-rajput-8237ba386/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-HarshRajput-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-HarshRajput-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
+
+[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate%20Earned-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/0f8f604ef709)
+
+[![Digital Literacy Quiz](https://img.shields.io/badge/Google%20Form-Digital%20Literacy%20Quiz-red?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor)
+
+[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-CSE%2025BEY10012-orange?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
+
+[![Course](https://img.shields.io/badge/Course-CSE0001%20Digital%20Literacy-blue?style=for-the-badge)]()
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 # 🎓 Digital Literacy Portfolio — CSE0001
 
 **VIT Bhopal University | VITyarthi E-Learning Platform**
