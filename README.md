@@ -1,18 +1,17 @@
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-rajput-8237ba386/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-HarshRajput-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-HarshRajput-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
 
-[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate%20Earned-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/0f8f604ef709)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certificate%20Earned-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/0f8f604ef709)
+[![Google Form](https://img.shields.io/badge/Google%20Form-Digital%20Literacy%20Quiz-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor)
 
-[![Digital Literacy Quiz](https://img.shields.io/badge/Google%20Form-Digital%20Literacy%20Quiz-red?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor)
+[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-25BEY10012-FF6B00?style=for-the-badge&logo=university&logoColor=white)]()
+[![Course](https://img.shields.io/badge/CSE0001-Digital%20Literacy-2E75B6?style=for-the-badge&logo=bookstack&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
-[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-CSE%2025BEY10012-orange?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
-
-[![Course](https://img.shields.io/badge/Course-CSE0001%20Digital%20Literacy-blue?style=for-the-badge)]()
-
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+</div>
 # 🎓 Digital Literacy Portfolio — CSE0001
 
 **VIT Bhopal University | VITyarthi E-Learning Platform**
