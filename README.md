@@ -43,7 +43,6 @@ digital-literacy-project/
 │
 ├── task-1-presentation/
 │   ├── infographic.png               ← Exported infographic (Canva/Prezi)
-│   └── description.md               ← Tool used & design description
 │
 ├── task-2-portfolio/
 │   ├── github-profile.png            ← Screenshot of GitHub profile
