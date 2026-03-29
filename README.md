@@ -13,96 +13,108 @@
 
 </div>
 # 🎓 Digital Literacy Portfolio — CSE0001
-
 **VIT Bhopal University | VITyarthi E-Learning Platform**
+
+This repository contains the comprehensive project work for the **Digital Literacy (CSE0001)** course, documenting the transition from a digital consumer to a professional digital citizen.
 
 ---
 
-## 👤 Student Details
-
+## 👤 Student Information
 | Field | Details |
-|-------|---------|
-| **Name** | [HARSH RAJPUT] |
-| **Registration No.** | [25BEY10012] |
-| **Branch** | [CSE] |
-| **Year** | First Year B.Tech |
-| **Course Code** | CSE0001 – Digital Literacy |
+| :--- | :--- |
+| **Name** | Harsh Rajput |
+| **Registration No.** | 25BEY10012 |
+| **Branch/Year** | CSE | First Year B.Tech |
 | **Academic Year** | 2026-27 |
 
 ---
 
-## 📁 Repository Structure
-
-```
+## 📂 Repository Structure
+```bash
 digital-literacy-project/
-│
-├── README.md                         ← This file
-│
-├── Report/
-│   └── Project_Report.pdf          ← Full written project report
-│
-├── task-1-presentation/
-│   ├── infographic.png               ← Exported infographic (Canva/Prezi)
-│
-├── task-2-portfolio/
-│   ├── github-profile.png            ← Screenshot of GitHub profile
-│   ├── linkedin-profile.png          ← Screenshot of LinkedIn profile
-│   ├── kaggle-profile.png            ← Screenshot of Kaggle profile
-│   └── reflection.md                ← Platform reflection notes
-│
-├── task-3-platforms/
-│   ├── hackerrank-challenge.png      ← Screenshot of completed challenge
-│   ├── google-form.png               ← Screenshot of Digital Literacy Quiz form
-│   ├── google-sheet-responses.png   ← Screenshot of linked response sheet
-│   └── notes.md                     ← Reflection notes
-│
-├── task-4-email-etiquette/
-│   ├── email-drafts.md              ← Two professional email drafts
-│   └── social-media-checklist.md   ← Social Media Do's and Don'ts
-│
-└── task-5-cybercrime/
-    ├── casestudy.md                 ← Cybercrime case study
-    └── prevention-checklist.md     ← Stay Safe Online checklist
+├── Report/                  # Full Project Report (PDF)
+├── task-1-presentation/     # Infographic & Visuals
+├── task-2-portfolio/        # GitHub, LinkedIn, & Kaggle Profile assets
+├── task-3-platforms/        # HackerRank & Google Form Quiz results
+├── task-4-email-etiquette/   # Professional drafts & Social Media guidelines
+└── task-5-cybercrime/       # UPI Fraud Case Study & Safety Checklist
 ```
 
 ---
 
 ## 📋 Module Summaries
 
-### Task 1 – Digital Literacy Awareness Infographic (Module 1)
-Created a one-page visual infographic using **Canva** covering: what digital literacy is, safe internet practices, and professional online presence. The design uses icons and minimal text to make the concepts accessible to first-year students.
+# Module 1: Digital Literacy Awareness
 
-🔗 [https://www.canva.com/design/DAHEyNEewNQ/ut5uCeTxIQS_AO1yQDH9_g/edit?utm_content=DAHEyNEewNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](#)
+## Overview
+This module focused on defining digital literacy in the modern era. I created a visual infographic aimed at first-year university students to simplify complex topics.
+
+### Key Topics Covered:
+* **What is Digital Literacy?** Beyond just using a computer.
+* **Safe Internet Practices:** Identifying phishing and secure browsing.
+* **Professional Online Presence:** Building a brand from Day 1.
+
+### Assets
+* [View Infographic on Canva](https://www.canva.com/design/DAHEyNEewNQ/ut5uCeTxIQS_AO1yQDH9_g/edit?utm_content=DAHEyNEewNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* `infographic.png` (Included in this folder)
+---
+
+# Module 2: Professional Digital Footprint
+
+## Platform Strategy
+I established a professional presence on three industry-standard platforms to align with my career goals in CSE.
+
+| Platform | Purpose | Link |
+| :--- | :--- | :--- |
+| **GitHub** | Version control & Project Hosting | [Profile](https://github.com/harshrajput92433) |
+| **LinkedIn** | Professional Networking & VIT Details | [Profile](https://www.linkedin.com/in/harsh-rajput-8237ba386/) |
+| **Kaggle** | Data Science & Competitive Analysis | [Profile](https://www.kaggle.com/harshrajput92433) |
+---
+
+
+# Module 3: Coding & Collaboration
+
+## Part A: Problem Solving
+Completed the **"Solve Me First"** challenge on HackerRank to demonstrate proficiency in basic algorithm logic and environment setup.
+* **Status:** ✅ Completed
+* **Certificate:** [HackerRank Certificate](https://www.hackerrank.com/certificates/0f8f604ef709)
+
+## Part B: Data Collection
+Designed a **Digital Literacy Awareness Quiz** using Google Forms.
+* **Goal:** To assess the digital safety knowledge of peers.
+* **Features:** 5 objective questions with automated response tracking.
+* **Link:** [Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor)
+---
+
+# Module 4: Professional Communication
+
+## Email Templates
+This folder contains standardized templates for professional academic and industry correspondence:
+1.  **Professor Extension Request:** Formal tone, clear subject line, and valid justification.
+2.  **Internship Inquiry:** Concise value proposition and professional sign-off.
+
+## Social Media Guidelines
+**The Do's:**
+* Use a professional headshot.
+* Share relevant projects and certifications.
+* Enable Two-Factor Authentication (2FA).
+
+**The Don'ts:**
+* Post sensitive personal information (address/phone).
+* Engage in unprofessional public debates.
 
 ---
 
-### Task 2 – Student Digital Portfolio (Module 2)
-Set up professional profiles on three platforms:
-- 🐙 **GitHub** – [https://github.com/harshrajput92433](#) — Profile README with name, branch, year, and learning goal
-- 💼 **LinkedIn** – [https://www.linkedin.com/in/harsh-rajput-8237ba386/](#) — Education section filled with VIT Bhopal details
-- 📊 **Kaggle** – [https://www.kaggle.com/harshrajput92433](#) — Account created for future data science practice
+# Module 5: Cybercrime & Safety
 
----
+## Case Study: UPI / Online Payment Fraud
+A detailed analysis of how social engineering is used to trick users into sharing OTPs or scanning "Collection" QR codes. 
 
-### Task 3 – Coding & Collaboration Platforms (Module 3)
-- ✅ Completed HackerRank's "Solve Me First" challenge (Part A)
-- 📝 Built a **Digital Literacy Awareness Quiz** on Google Forms with 5 questions (Part B)
-
-🔗[https://www.hackerrank.com/certificates/0f8f604ef709](#)
-[https://docs.google.com/forms/d/e/1FAIpQLSeyUhCIHondlI1a3Vaqwpnw5N4K8cMZ6ZIB6PdAqoLRA9x9oQ/viewform?usp=publish-editor](#) 
-
----
-
-### Task 4 – Professional Email & Etiquette Guide (Module 4)
-- Wrote two professional emails (professor extension request + internship inquiry)
-- Created a Social Media Do's and Don'ts checklist for college students
-
----
-
-### Task 5 – Cybercrime Awareness Case Study (Module 5)
-- Case study on **UPI / Online Payment Fraud** (200–250 words)
-- Created a "Stay Safe Online" prevention checklist with 8+ actionable tips specific to Indian college students, including UPI safety tips and reporting channels (cybercrime.gov.in | Helpline 1930)
-
+### Prevention Checklist (Indian Student Context)
+* **Never** enter your UPI PIN to *receive* money.
+* **Verify** the beneficiary name before hitting 'Send'.
+* **Report** immediately via the **1930** Helpline if a fraud occurs.
+* **Portal:** Use [cybercrime.gov.in](https://cybercrime.gov.in) for official complaints.
 ---
 
 ## 🔗 Useful Links
