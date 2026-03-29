@@ -38,7 +38,7 @@ digital-literacy-project/
 │
 ├── README.md                         ← This file
 │
-├── report/
+├── Report/
 │   └── Project_Report.pdf          ← Full written project report
 │
 ├── task-1-presentation/
