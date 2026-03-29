@@ -39,7 +39,7 @@ digital-literacy-project/
 ├── README.md                         ← This file
 │
 ├── report/
-│   └── Project_Report.docx           ← Full written project report
+│   └── Project_Report.pdf          ← Full written project report
 │
 ├── task-1-presentation/
 │   ├── infographic.png               ← Exported infographic (Canva/Prezi)
